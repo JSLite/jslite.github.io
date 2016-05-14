@@ -18,7 +18,7 @@
     "idoc": {
         "theme": "handbook",
         "md": [
-            "接口文档.md",
+            "文档.md",
             "关于.md"
         ]
     }
