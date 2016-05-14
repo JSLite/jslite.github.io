@@ -1,0 +1,25 @@
+{
+    "name": "JSLite",
+    "version": "1.1.6",
+    "description": "JSLite is a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API. If you use jQuery, you already know how to use JSLite.",
+    "keywords": [
+        "JSLite",
+        "library",
+        "browser",
+        "javascript"
+    ],
+    "homepage": "http://JSLite.io",
+    "author": "jaywcjlove <398188662@qq.com>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JSLite/JSLite"
+    },
+    "licenses": "MIT",
+    "idoc": {
+        "theme": "handbook",
+        "md": [
+            "接口文档.md",
+            "关于.md"
+        ]
+    }
+}
